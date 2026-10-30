@@ -1,0 +1,8 @@
+﻿Table,File Name,Rows,Columns,Missing Values,Cols with Missing
+Orders,olist_orders_dataset.csv,"99,441",8,"4,908",3
+Customers,olist_customers_dataset.csv,"99,441",5,0,0
+Order Items,olist_order_items_dataset.csv,"112,650",7,0,0
+Payments,olist_order_payments_dataset.csv,"103,886",5,0,0
+Products,olist_products_dataset.csv,"32,951",9,"2,448",8
+Sellers,olist_sellers_dataset.csv,"3,095",4,0,0
+Category Translation,product_category_name_translation.csv,71,2,0,0

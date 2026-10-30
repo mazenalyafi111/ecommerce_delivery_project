@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,Average Precision (PR-AUC)
+Baseline (Most Frequent),0.9571,0.0,0.0,0.0,0.0429
+Random Forest,0.5901,0.0342,0.3145,0.0617,0.0419
+Hist Gradient Boosting,0.4507,0.0527,0.6968,0.098,0.055
